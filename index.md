@@ -1,4 +1,5 @@
 ## Welcome to The Met & Dress Ease
+_by: Patricia Ysabel Fangonilo and Hannah Grace Joaquin_
 
 If you wish to see our codes, please click the upper left corner of this page, where you can see the "Fork me on Github" button.
 
