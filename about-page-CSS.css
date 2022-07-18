@@ -1,0 +1,63 @@
+/* About Page - CSS
+Programmer: Fangonilo & Joaquin */
+
+
+*#dm *.dmBody div.u_1011943214{
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody *.u_1957958027:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1957958027.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1957958027:before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.4 !important}
+*#dm *.dmBody div.u_1957958027.before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.4 !important}
+*#dm *.dmBody div.u_1957958027{
+background-repeat:no-repeat !important;
+background-image:url(https://irt-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1457972703743-4a6585c42ed8.jpg) !important}
+*#dm *.dmBody div.u_1419699729{
+background-color:rgba(246,246,246,1) !important}
+*#dm *.dmBody *.u_1664025860:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1664025860.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1664025860:before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.05 !important}
+*#dm *.dmBody div.u_1664025860.before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.05 !important}
+*#dm *.dmBody *.u_1905712147:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1905712147.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1905712147:before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.05 !important}
+*#dm *.dmBody div.u_1905712147.before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.05 !important}
+*#dm *.dmBody div.u_1664025860{
+background-repeat:no-repeat !important;
+background-image:url(https://irt-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1485968579580-b6d095142e6e.jpg) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1905712147{
+background-repeat:no-repeat !important;
+background-image:url(https://irp-cdn.multiscreensite.com/md/dmtmpl/9e78c98d-ac9a-4202-bb4c-69b8b7a29113/dms3rep/multi/alexandra-gorn-342847.jpg) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1166347053{
+background-color:rgb(246,246,246) !important}
+*#dm *.dmBody div.u_1846821336{
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1303959500{
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1787129192{
+background-color:rgba(0,0,0,0) !important}
