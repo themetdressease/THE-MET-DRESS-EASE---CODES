@@ -1,0 +1,73 @@
+/* Collection Page for Mobile Mode - CSS
+Programmer: Fangonilo & Joaquin */
+
+
+
+*#dm *.dmBody div.u_1582076999{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:10px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1767739052{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody *.u_1582076999 *.photoGalleryThumbs{
+padding:3.5px !important}
+*#dm *.dmBody *.u_1582076999 *.layout-container{
+padding:3.5px !important}
+*#dm *.dmBody *.u_1582076999 *.photoGalleryViewAll{
+padding:0 7px !important}
+*#dm *.dmBody div.u_1764117811{
+padding-top:50px !important;
+padding-bottom:50px !important;
+background-position:50% 50% !important;
+background-repeat:no-repeat !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1461186390{
+padding-top:30px !important;
+padding-bottom:0 !important;
+padding-right:15px !important;
+padding-left:15px !important}
+*#dm *.dmBody *.u_1582076999 *.photoGalleryThumbs *.image-container a{
+padding-top:269px !important}
+*#dm *.dmBody div.u_1561012500{
+padding-top:0 !important}
+*#dm *.dmBody div.u_1725972352{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1582076999 *.caption-button{
+width:200px !important;
+height:42px !important}

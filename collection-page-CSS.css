@@ -1,0 +1,199 @@
+/* Collection Page - CSS
+Programmer: Fangonilo & Joaquin */
+
+
+*#dm *.dmBody div.u_1561012500
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1764117811:before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1764117811.before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.u_1764117811:before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.4 !important;
+}
+*#dm *.dmBody div.u_1764117811.before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.4 !important;
+}
+*#dm *.dmBody div.u_1764117811
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://irp-cdn.multiscreensite.com/md/dmtmpl/9e78c98d-ac9a-4202-bb4c-69b8b7a29113/dms3rep/multi/fashion_item_floor.jpg) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button span.text
+{
+	color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	background-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button:hover
+{
+	background-color:rgba(0,0,0,1) !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-button.hover
+{
+	background-color:rgba(0,0,0,1) !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1582076999 *.caption-inner
+{
+	background-color:rgba(255,255,255,0.23) !important;
+}
+*#dm *.dmBody *.u_1058789961
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1787365761
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1240326506
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1218878686
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1781559108
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1218065857
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1575370659
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1146940020
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1254589358
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1744508609
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1558012763
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1332507107
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1968068044
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1258688201
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1203316769
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1474679102
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1667986394
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1253704215
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1304722901
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1102051337
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1945416895
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1935935747
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1680323448
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1765836954
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1466602158
+{
+	background-position:50% 0% !important;
+}
+*#dm *.dmBody *.u_1156614449
+{
+	background-position:50% 100% !important;
+}
+*#dm *.dmBody div.u_1582076999
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1582076999 .caption-inner
+{
+	border-bottom-left-radius:0px !important;
+	-webkit-border-top-right-radius:0px !important;
+	-moz-border-top-right-radius:0px !important;
+	-webkit-border-bottom-right-radius:0px !important;
+	-webkit-border-bottom-left-radius:0px !important;
+	border-top-right-radius:0px !important;
+	-webkit-border-top-left-radius:0px !important;
+	border-radius:0px !important;
+	-moz-border-bottom-right-radius:0px !important;
+	-moz-border-top-left-radius:0px !important;
+	border-top-left-radius:0px !important;
+	-moz-border-radius:0px !important;
+	-moz-border-bottom-left-radius:0px !important;
+	border-bottom-right-radius:0px !important;
+	-webkit-border-radius:0px !important;
+}
+*#dm *.dmBody *.u_1539211551
+{
+	background-position:50% 0 !important;
+}
+*#dm *.dmBody *.u_1036034979
+{
+	background-position:50% 0% !important;
+}
