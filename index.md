@@ -1,37 +1,21 @@
 ## Welcome to The Met & Dress Ease
 
-You can use the [editor on GitHub](https://github.com/themetdressease/THE-MET-DRESS-EASE---CODES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you wish to see our codes, please click the upper left corner of this page, where you can see the "Fork me on Github" button.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What's in our Repository?
 
-### Markdown
+# The Met & Dress Ease has:
+- **Home Page**
+- **Shop Page**
+- **Collection Page**
+- **About Us Page**
+- **Visit Us Page**
+- **Contact Page**
+- **Free Shipping**
+- **Promotions**
+- **Pop Up**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/themetdressease/THE-MET-DRESS-EASE---CODES/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Or you can visit our Github Profile below:
+You can follow us for more information and so you will be notified of our new and future projects.
+[The Met Dress Ease Github](https://github.com/themetdressease)
+### You may also view and shop in our shop: [The Met & Dress Ease Online Shop](https://themet.site)
