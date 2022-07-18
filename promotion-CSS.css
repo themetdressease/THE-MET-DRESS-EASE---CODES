@@ -1,0 +1,147 @@
+/* Promotion or Sale - CSS
+Programmer: Fangonilo & Joaquin */
+
+*#dm *.dmBody div.u_1980417222
+{
+	background-image:url('https://dp-cdn.multiscreensite.com/d_gallery/firstImages/a_City_skyline_1600_754_d.jpg') !important;
+}
+*#dm *.dmBody div.u_1582953132
+{
+	background-image:url(https://dp-cdn.multiscreensite.com/d_gallery/firstImages/a_City_skyline_1600_754_d.jpg) !important;
+}
+*#dm *.dmBody div.u_1516620858
+{
+	width:775px !important;
+	max-width:100% !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1694205906
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody div.u_1487980814
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody div.u_1111986376
+{
+	background-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody hr.u_1733713005
+{
+	background-color:rgb(17, 17, 17) !important;
+}
+*#dm *.dmBody div.u_1214872248
+{
+	width:180px !important;
+	max-width:100% !important;
+	display:block !important;
+}
+*#dm *.dmBody a.u_1145340895.hover
+{
+	color:rgb(102, 102, 102) !important;
+	background-color:rgb(102, 102, 102) !important;
+	border-style:solid !important;
+	border-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody a.u_1145340895:hover
+{
+	color:rgb(102, 102, 102) !important;
+	background-color:rgb(102, 102, 102) !important;
+	border-style:solid !important;
+	border-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody a.u_1145340895.hover span.text
+{
+	color:rgb(255, 15, 168) !important;
+}
+*#dm *.dmBody a.u_1145340895:hover span.text
+{
+	color:rgb(255, 15, 168) !important;
+}
+*#dm *.dmBody a.span.textonly
+{
+	color:rgb(255, 15, 168) !important;
+}
+*#dm *.dmBody a.span.textonly
+{
+	color:rgb(255, 15, 168) !important;
+}
+*#dm *.dmBody div.u_1351773922
+{
+	border-style:solid !important;
+	border-color:rgb(255, 255, 255) !important;
+	line-height:normal !important;
+	font-family:Impact !important;
+}
+*#dm *.dmBody div.u_1992012238
+{
+	line-height:normal !important;
+	font-family:Impact !important;
+}
+*#dm *.dmBody h1.u_1595600654
+{
+	border-style:solid !important;
+	border-color:rgb(255, 255, 255) !important;
+	line-height:normal !important;
+	font-family:Montserrat !important;
+}
+*#dm *.dmBody h1.u_1307383692
+{
+	line-height:normal !important;
+	font-family:Montserrat !important;
+}
+*#dm *.dmBody div.u_1850265357
+{
+	line-height:normal !important;
+	font-family:Montserrat !important;
+}
+*#dm *.dmBody a.u_1145340895 span.text
+{
+	text-align:center !important;
+	font-weight:bold !important;
+	font-family:'Montserrat' !important;
+	color:rgb(255, 255, 255) !important;
+}
+*#dm *.dmBody a.u_1145340895 span.textonly
+{
+	text-align:center !important;
+	font-weight:bold !important;
+	font-family:'Montserrat' !important;
+	color:rgb(255, 255, 255) !important;
+}
+*#dm *.dmBody div.u_dm_content
+{
+	background-image:none !important;
+}
+*#dm *.dmBody div.dmPopupInner
+{
+	background-color:rgb(17, 17, 17) !important;
+	border-style:solid !important;
+	border-width:1px !important;
+	-webkit-box-shadow:0px 0px 10px rgba(0, 0, 0, 0.30) !important;
+	box-shadow:0px 0px 10px rgba(0, 0, 0, 0.30) !important;
+	-moz-box-shadow:0px 0px 10px rgba(0, 0, 0, 0.30) !important;
+	border-radius:5px !important;
+	-moz-border-radius:5px !important;
+	-webkit-border-radius:5px !important;
+	background-image:url('https://dp-cdn.multiscreensite.com/gallery/Bg_30.png') !important;
+	background-repeat:repeat !important;
+	background-size:auto !important;
+	background-position:center center !important;
+	border-color:rgb(255, 37, 156) !important;
+}
+*#dm *.dmBody a.u_1145340895
+{
+	color:rgb(81, 81, 81) !important;
+	background-color:rgb(81, 81, 81) !important;
+	border-radius:0px !important;
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	border-style:solid !important;
+	border-color:rgb(255, 255, 255) !important;
+	border-width:0px !important;
+}
