@@ -1,0 +1,31 @@
+/* Free Shipping and Returns Page - CSS
+Programmer: Fangonilo & Joaquin */
+
+*#dm *.dmBody div.u_1675683545 { background-color:rgba(0,0,0,0) !important; }
+
+*#dm *.dmBody *.u_1653191806:before {
+  opacity:0.5 !important;
+  background-color:rgb(255,255,255) !important;
+}
+
+*#dm *.dmBody *.u_1653191806.before {
+  opacity:0.5 !important;
+  background-color:rgb(255,255,255) !important;
+}
+
+*#dm *.dmBody div.u_1653191806:before {
+  background-color:rgba(0,0,0,1) !important;
+  opacity:0.4 !important;
+}
+
+*#dm *.dmBody div.u_1653191806.before {
+  background-color:rgba(0,0,0,1) !important;
+  opacity:0.4 !important;
+}
+
+*#dm *.dmBody div.u_1653191806 {
+  background-repeat:no-repeat !important;
+  background-image:url(https://irt-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1470309864661-68328b2cd0a5.jpg) !important;
+}
+
+*#dm *.dmBody div.u_1713845987 { background-color:rgba(0,0,0,0) !important; }
